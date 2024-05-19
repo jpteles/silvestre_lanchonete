@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #09090B;
+  height: auto;
+}
+
+@font-face {
+  font-family: 'FontePadrao';
+  src: url('../src/Fontes/Inter/Inter-VariableFont_slnt\,wght.ttf');
+}
+
+*{
+  font-family: 'FontePadrao';
+  font-weight: 500;
+}
